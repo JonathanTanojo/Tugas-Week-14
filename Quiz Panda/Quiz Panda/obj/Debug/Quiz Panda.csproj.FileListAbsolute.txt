@@ -1,0 +1,10 @@
+D:\UC\Algorithma\Week 14\Jumat\Homework\Quiz Panda\Quiz Panda\bin\Debug\Quiz Panda.exe.config
+D:\UC\Algorithma\Week 14\Jumat\Homework\Quiz Panda\Quiz Panda\bin\Debug\Quiz Panda.exe
+D:\UC\Algorithma\Week 14\Jumat\Homework\Quiz Panda\Quiz Panda\bin\Debug\Quiz Panda.pdb
+D:\UC\Algorithma\Week 14\Jumat\Homework\Quiz Panda\Quiz Panda\obj\Debug\Quiz Panda.csprojAssemblyReference.cache
+D:\UC\Algorithma\Week 14\Jumat\Homework\Quiz Panda\Quiz Panda\obj\Debug\Quiz_Panda.Form1.resources
+D:\UC\Algorithma\Week 14\Jumat\Homework\Quiz Panda\Quiz Panda\obj\Debug\Quiz_Panda.Properties.Resources.resources
+D:\UC\Algorithma\Week 14\Jumat\Homework\Quiz Panda\Quiz Panda\obj\Debug\Quiz Panda.csproj.GenerateResource.cache
+D:\UC\Algorithma\Week 14\Jumat\Homework\Quiz Panda\Quiz Panda\obj\Debug\Quiz Panda.csproj.CoreCompileInputs.cache
+D:\UC\Algorithma\Week 14\Jumat\Homework\Quiz Panda\Quiz Panda\obj\Debug\Quiz Panda.exe
+D:\UC\Algorithma\Week 14\Jumat\Homework\Quiz Panda\Quiz Panda\obj\Debug\Quiz Panda.pdb
